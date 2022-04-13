@@ -2,5 +2,8 @@
   "name": "miiTemp",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "node-ble": "^1.7.0"
+  }
 }
